@@ -1,0 +1,7 @@
+# ITS72604 Principles of Programming — Final Examination (Sept 2026)
+# Python 3.11+ required. Install with:  pip install -r requirements.txt
+streamlit>=1.40
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
